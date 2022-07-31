@@ -1,5 +1,4 @@
 ### Hello There 🤠
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - ⚡ Fun fact **I'm Anime**
 I'm Tezuka Karlsefni Web Developer but majored in Game Development![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TezukaKarlsefni&show_icons=true&theme=radical)
 
