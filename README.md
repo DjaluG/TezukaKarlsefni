@@ -15,8 +15,7 @@ I'm Tezuka Karlsefni Web Developer but majored in Game Development![Anurag's Git
     </a>
 </p>
 
-<a><img alt="Tezuka Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TezukaKarlsefni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DC143C" /></a>
-  <br/>
+
 
 
 The image of the dead, dead ends in my mind
