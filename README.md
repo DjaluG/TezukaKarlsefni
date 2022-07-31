@@ -1,6 +1,9 @@
 <p align="center">
 <img width="350px"  src="https://c.tenor.com/c6jEkIeTTycAAAAM/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B2%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2.gif"/>
 </p>
+
+
+
 ### Hello There 🤠
 - ⚡ Fun fact **I'm Anime**
 I'm Tezuka Karlsefni Web Developer but majored in Game Development![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TezukaKarlsefni&show_icons=true&theme=radical)
