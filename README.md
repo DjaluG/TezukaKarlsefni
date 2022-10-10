@@ -21,20 +21,3 @@ I'm Tezuka Karlsefni Web Developer but majored in Game Development![Anurag's Git
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TezukaKarlsefni&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
-
-The image of the dead, dead ends in my mind
-Policemen swear to God, love seeping from their guns
-I know my friends and I would probably turn and run
-If you get out of bed, come find us heading for the bridge
-Bring a stone, all the rage, my little dark age
-I grieve in stereo, the stereo sounds strange
-I know that if you hide, it doesn't go away
-If you get out of bed and find me standing all alone
-Open-eyed, burn the page, my little dark age
-(Little dark age, little dark age)
-(Little dark age, little dark age)
-(Little dark age, little dark age)
-All alone, open-eyed, burn the page, my little dark age
